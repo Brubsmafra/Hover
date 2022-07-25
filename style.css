@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+.fonte{
+    font-family: 'Poppins', sans-serif;
+}
+.pagina li {
+    color: #070401;
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    padding: 8px 16px;    
+}
+.paginador li{
+    color: #070401;
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    padding: 8px 16px;    
+}
+.paginador li:hover {
+    background-color: rgba(232, 156, 252, 0.959);
+}
+
